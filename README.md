@@ -9,7 +9,7 @@ ve diğer kullanıcıların profil web sayfalarını görüntüleyebildiği bir 
 <h1> Nasıl kullanılır </h1>
 
 - XAMPP uygulamasını indiriniz ve kontrol paneli üzerinden Apache ve MySQL servislerini aktif hale getiriniz. <br>
-- Web browser açınız ve arama bölümünden localhostunu çalıştırınız. <br>
+- Web browser açınız ve arama bölümünden localhostunuzu çalıştırınız. <br>
 - index.php dosyasını localhost üzerinden görüntüleyiniz. <br>
 
 <hr>
